@@ -17,12 +17,10 @@ The source code is directly from MIT app inventor (http://www.appinventor.mit.ed
 
 Other 
 
-There is a structure for creating alarm system but without full background functionality its really on useful while you are doing other things on your android device but not when its sleeps
+There is a structure for creating alarm system but without full background functionality its really only useful while you are doing other things on your android device but not when its sleeps
 
-I hope you find this source doc useful for your own creations.
+Basic instructions:  
+1.  follow the MIT app developer guides to install on your development environment
+2.  You will need your own OCtranspo App id code and API key for the name of your app - you can get that here:  http://www.octranspo1.com/developers/register
 
-Basic instruction:  
-1.  follow the MIT app developer guides
-2.  You will need your own OCtranspo App id code and API key for the name of your app
-
-I will try to provide more documentation on fields as time permits.
+I will try to provide more documentation on fields and structure as time permits.
