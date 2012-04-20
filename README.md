@@ -5,22 +5,24 @@ Android app to pull arrival times from OCtranspo live data feed - no frills dash
 
 Background
 
-I developed this app to answer my bus stop usage.  As a regular expres and 95 route user I needed something that just focused on times without all the other overhead.  My goal was to creat a live dashboard that could answer next trip in a quick glance - not extra screen, pop-ups or look ups.  It is assumed that daily users know which stops and buses they use.  
+I developed this app to answer my bus stop usage on android.  As a regular express and 95 route user I needed something that just focused on times without all the other overhead.  My goal was to create a live dashboard that could answer next trips in a quick glance - no extra screens, pop-ups or look ups.  It is assumed that daily users know which stops and buses they use.  
 
 Bugs and Issues
 
-Actually this is very stable, there are littlq quirks but no issues.  Probably the only thing I would add is that current compiles through MIT app inventor do not allow background operation of app while in sleep mode.
+Actually this is very stable, there are little quirks but no issues.  Probably the only thing I would add is that current compile through MIT app inventor does not allow background operation of app while in sleep mode.
 
 Source Code:
 
-The source code is directly from MIT app inventor.  This is a fantastic platform for creating apps with out having to bother with syntax.  However coding logic does help and I have had some expeience in my early years with basic and C that helped to understand the logic over development
+The source code is directly from MIT app inventor (http://www.appinventor.mit.edu/).  This is a fantastic platform for creating apps without having to bother with syntax.  However coding logic does help and I have had some experience in my early years with basic and C that helped to understand the logic of development
 
 Other 
 
-There is a structure for creating alarm system but without full background functionality it really on useful while you are dong othing things are your android device.
+There is a structure for creating alarm system but without full background functionality its really on useful while you are doing other things on your android device but not when its sleeps
 
-I hope you find this source doc useful for your own creations
+I hope you find this source doc useful for your own creations.
 
 Basic instruction:  
-1.  follwo the MIT app developer guides
+1.  follow the MIT app developer guides
 2.  You will need your own OCtranspo App id code and API key for the name of your app
+
+I will try to provide more documentation on fields as time permits.
